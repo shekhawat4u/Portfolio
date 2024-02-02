@@ -399,18 +399,21 @@ section {
 }
 
 .info-about1 {
-    left: 10%;
-    top: 34%;
+    text-align: center;
+    left: 2%;
+    top: 26%;
 }
 
 .info-about2 {
-    left: 66;
-    top: 15;
+    text-align: center;
+    left: 25%;
+    top: 14%;
 }
 
 .info-about3 {
-    left: 61;
-    top: 70;
+    text-align: center;
+    left: 28%;
+    top: 70%;
 }
 
 .img-about span {
